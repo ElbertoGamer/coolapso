@@ -6,10 +6,11 @@ featured = "pic01.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "Minecraft"
 slug = "Minecraft"
 type = "post"
 +++
+
+# Minecraft
 
 ![Minecraft](minecraft.jpg)
 
