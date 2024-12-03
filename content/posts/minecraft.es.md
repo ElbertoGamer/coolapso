@@ -13,9 +13,7 @@ type = "post"
 
 # Minecraft
 
-<figure>
-<img src="../minecraft.jpg" alt="Minecraft">
-</figure>
+![Minecraft](coolapso/content/minecraft.jpg)
 
 *Minecraft* es un videojuego de tipo sandbox desarrollado por **Mojang Studios** y lanzado oficialmente en 2011. Diseñado originalmente por **Markus Persson** (también conocido como Notch), Minecraft ofrece un mundo infinito de bloques donde los jugadores pueden construir, explorar y sobrevivir, haciendo uso de su creatividad e ingenio.
 
