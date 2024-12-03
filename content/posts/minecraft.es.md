@@ -7,10 +7,9 @@ featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 slug = "Minecraft"
+title = "Minecraft"
 type = "post"
 +++
-
-# Minecraft
 
 ![Minecraft](../minecraft.png)
 
