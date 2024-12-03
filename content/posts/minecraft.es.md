@@ -11,6 +11,8 @@ slug = "Minecraft"
 type = "post"
 +++
 
+# Minecraft
+
 <figure>
 <img src="../minecraft.jpg" alt="Minecraft">
 </figure>
