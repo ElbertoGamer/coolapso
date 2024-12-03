@@ -6,14 +6,12 @@ featured = "pic01.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "Minecraft"
 slug = "Minecraft"
+title = "Minecraft"
 type = "post"
 +++
 
-<figure>
-<img src="/minecraft/minecraft.png" alt="Minecraft">
-</figure>
+![Minecraft](https://github.com/ElbertoGamer/coolapso/blob/master/content/static/minecraft.png)
 
 *Minecraft* es un videojuego de tipo sandbox desarrollado por **Mojang Studios** y lanzado oficialmente en 2011. Diseñado originalmente por **Markus Persson** (también conocido como Notch), Minecraft ofrece un mundo infinito de bloques donde los jugadores pueden construir, explorar y sobrevivir, haciendo uso de su creatividad e ingenio.
 
